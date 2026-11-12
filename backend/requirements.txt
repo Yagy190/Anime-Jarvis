@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+websockets
+openai-whisper
+numpy
+langchain
+langchain-google-genai
+edge-tts
+pydub
+pydantic
+python-dotenv

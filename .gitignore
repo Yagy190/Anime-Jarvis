@@ -1,0 +1,45 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Unity generated files
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+*.mdb
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logsgit config --global core.longpaths true
+*.log
+
+# Python virtual environments at any folder depth
+**/venv/
+**/.venv/
